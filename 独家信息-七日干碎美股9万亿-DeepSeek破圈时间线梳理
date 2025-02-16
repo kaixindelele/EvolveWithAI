@@ -104,6 +104,13 @@
 
 # 七日干碎美股9万亿-110个DeepSeek百万推特贴时间线梳理
 
+```
+原作者：
+[知乎-强化学徒](https://www.zhihu.com/people/heda-he-28)
+[公众号-和AI一起进化](https://mp.weixin.qq.com/s/JM3q8j8mlQ5jAlDBf5mGtA)
+[Github-kaixindelele](https://github.com/kaixindelele)
+```
+
 ## **2025/1/20**：正式发布，ollama支持本地部署，Jim fan夸赞技术过硬和开源
 DeepSeek正式发布**DeepSeek R1**，展示了在性能、效率、**开源**以及与**OpenAI**产品对标等方面的技术亮点，迅速引起业界关注。当天的JimFan就开始夸赞技术创新和开源，ollama在day1就已经支持本地部署，有人期望能够用M1在本地部署满血版，在AI社群引起较大关注。
 
@@ -216,6 +223,14 @@ DeepSeek正式发布**DeepSeek R1**，展示了在性能、效率、**开源**�
 
 ## **2025/1/24**：开始讨论DS对美国AI公司和股市的冲击
 当天的帖子从实际应用及技术复现到市场与经济层面（尤其是美国AI公司和英伟达公司）进行了全方位讨论。讨论焦点既有对**Deepseek**低成本、开源优势的赞誉，也涉及学术界采用、产业链冲击，以及一些有政治偏见的人开始破防。
+
+```
+原作者：
+[知乎-强化学徒](https://www.zhihu.com/people/heda-he-28)
+[公众号-和AI一起进化](https://mp.weixin.qq.com/s/JM3q8j8mlQ5jAlDBf5mGtA)
+[Github-kaixindelele](https://github.com/kaixindelele)
+```
+
 
 **05:52**：[ @arithmoquine](https://x.com/arithmoquine/status/1882667756153368663) - 浏览（150.5万）  
 - 帖子内容：在过去几个小时内，我向 **deepseek API** 发出了超过200,000个请求。没有速率限制，花费仅约50美分。感谢 **CCP**，**openai**绝对做不到。  
@@ -371,6 +386,14 @@ DeepSeek正式发布**DeepSeek R1**，展示了在性能、效率、**开源**�
 ## **2025/1/26**：DS苹果登榜，越来越多人讨论对美股的冲击
 
 26号破百万的帖子非常多，讨论的内容也很杂。已经有人开始夸中国的教育模式好，中国的stem人才多（确实多，我前几天还搜了一下，我们每年超过500万的stem毕业生），越来越多人开始讨论DS对美国AI的冲击，对美股的冲击了。以及，也有人发现，R1的写作能力有了显著的优势。
+
+```
+原作者：
+[知乎-强化学徒](https://www.zhihu.com/people/heda-he-28)
+[公众号-和AI一起进化](https://mp.weixin.qq.com/s/JM3q8j8mlQ5jAlDBf5mGtA)
+[Github-kaixindelele](https://github.com/kaixindelele)
+```
+
 
 **00:01**：[ @RealAlexJones](https://x.com/RealAlexJones/status/1883304229726790011) - 浏览（**206.5万**）  
 - 帖子内容：**中国的DeepSeek重磅消息震撼特朗普5000亿美元的人工智能项目**  
@@ -683,7 +706,8 @@ DeepSeek正式发布**DeepSeek R1**，展示了在性能、效率、**开源**�
 
 先发出来吧，如果有对完整Excel感兴趣的朋友，欢迎其他朋友探讨这里面的数据和细节。
 
-也欢迎对这篇帖子进行润色和修改，我会把这篇帖子的Markdown文件传到Github上，再发布时，请注明原作者：
+也欢迎对这篇帖子进行润色和修改，我会把这篇帖子的Markdown文件传到[Github](https://github.com/kaixindelele/EvolveWithAI/blob/main/%E7%8B%AC%E5%AE%B6%E4%BF%A1%E6%81%AF-%E4%B8%83%E6%97%A5%E5%B9%B2%E7%A2%8E%E7%BE%8E%E8%82%A19%E4%B8%87%E4%BA%BF-DeepSeek%E7%A0%B4%E5%9C%88%E6%97%B6%E9%97%B4%E7%BA%BF%E6%A2%B3%E7%90%86)，再发布时，请标注一下我的原帖子：
+
 ```
 原作者：
 [知乎-强化学徒](https://www.zhihu.com/people/heda-he-28)
